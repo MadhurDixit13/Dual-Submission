@@ -1,0 +1,37 @@
+QuestionGroupID,N_Single,N_Dual,Mean_Single,Mean_Dual,Pooled_Var_Single,Pooled_Var_Dual,T_stat,Degrees_Freedom,P_value,Test_Result
+Q_GRP_1,53,53,18.51,17.81,9.14,22.23,0.91,88.57,0.3646913,Not significant
+Q_GRP_10,39,77,15.41,17.11,10.87,17.50,-2.38,94.01,0.0192359,Significant difference favoring Dual
+Q_GRP_11,61,43,18.20,17.05,5.38,7.90,2.20,79.21,0.0308798,Significant difference favoring Single
+Q_GRP_12,10,43,10.30,13.74,15.34,27.99,-2.33,17.58,0.0321363,Significant difference favoring Dual
+Q_GRP_13,136,11,15.53,14.82,22.47,36.55,0.38,11.02,0.7098710,Not significant
+Q_GRP_14,51,54,15.51,17.26,5.15,11.93,-3.08,92.13,0.0027402,Significant difference favoring Dual
+Q_GRP_15,146,52,16.91,15.14,11.00,10.43,3.37,91.96,0.0010840,Significant difference favoring Single
+Q_GRP_16,33,11,19.33,18.73,1.94,5.22,0.82,12.57,0.4264650,Not significant
+Q_GRP_17,73,10,12.00,10.60,58.83,45.14,0.61,12.45,0.5534545,Not significant
+Q_GRP_18,9,45,17.22,16.18,3.69,4.51,1.46,12.25,0.1707296,Not significant
+Q_GRP_19,173,13,15.79,15.73,29.63,12.82,0.06,16.50,0.9529431,Not significant
+Q_GRP_2,165,11,14.56,18.45,29.14,2.87,-5.88,27.36,0.0000027,Significant difference favoring Dual
+Q_GRP_20,0,87,,,,,,27.36,,Insufficient data
+Q_GRP_21,6,38,15.33,13.06,10.66,21.99,1.48,8.66,0.1745271,Not significant
+Q_GRP_22,9,45,14.00,14.64,26.00,24.92,-0.34,11.29,0.7364881,Not significant
+Q_GRP_23,33,13,8.60,18.60,20.65,6.93,-9.29,37.38,0.0000000,Significant difference favoring Dual
+Q_GRP_24,69,43,15.97,15.68,9.88,12.27,0.44,81.98,0.6608711,Not significant
+Q_GRP_25,33,11,18.06,14.91,6.90,17.29,2.36,12.77,0.0348629,Significant difference favoring Single
+Q_GRP_26,10,52,15.50,16.38,19.83,17.84,-0.58,12.32,0.5724372,Not significant
+Q_GRP_27,38,45,13.45,15.98,27.44,8.88,-2.64,56.44,0.0107393,Significant difference favoring Dual
+Q_GRP_28,160,12,18.34,13.00,6.51,62.00,2.34,11.17,0.0388763,Significant difference favoring Single
+Q_GRP_29,33,11,14.60,16.36,2.84,9.05,-1.85,12.16,0.0893814,Not significant
+Q_GRP_3,0,11,,,,,,12.16,,Insufficient data
+Q_GRP_30,51,46,16.18,16.78,26.27,26.77,-0.58,93.79,0.5650858,Not significant
+Q_GRP_31,108,53,15.49,15.07,18.30,23.06,0.54,93.50,0.5906207,Not significant
+Q_GRP_32,340,12,11.43,14.83,23.78,14.33,-3.02,12.32,0.0103814,Significant difference favoring Dual
+Q_GRP_33,44,44,14.36,15.36,6.51,2.19,-2.24,68.96,0.0282711,Significant difference favoring Dual
+Q_GRP_4,0,4,,,,,,68.96,,Insufficient data
+Q_GRP_5,166,45,14.08,15.22,17.32,15.72,-1.70,72.47,0.0943420,Not significant
+Q_GRP_6,5,32,15.80,12.66,3.20,59.26,1.99,29.16,0.0558343,Not significant
+Q_GRP_7,343,39,11.89,9.34,38.72,34.33,2.55,48.28,0.0138454,Significant difference favoring Single
+Q_GRP_8,37,41,9.62,9.85,12.67,18.33,-0.26,75.52,0.7964330,Not significant
+Q_GRP_9,299,0,,,,,,75.52,,Insufficient data
+,,,,,,,,,,
+,,,,,,,,,0.0129384,Average of p-values favoring dual
+,,,,,,,,,0.0239097,Average of p-values favoring single

@@ -1,0 +1,100 @@
+QuestionGroupID,Topic,Semester,Submission Approach,Exam Version,Question Type,Standard Deviation,Average Score,Num Students,Possible Points,Mode of Exam,Notes / Mod,Link
+Q_GRP_1,Amdahls Law,Sum22T1Q2,Single,T1Q2,3,4.355,17.8333,6,20,Inperson,Mod,https://docs.google.com/spreadsheets/d/1WQNywU2GMtObT8blnrkRgFvGhwGRbZnZ/edit?gid=568869932#gid=568869932
+Q_GRP_1,Amdahls Law,Sum23T1Q2,Single,T1Q2,4,1.8529,19.1,10,20,Inperson,Original,https://docs.google.com/spreadsheets/d/1qOQNipGG9qUes37NrBlhRJDzuOCApSz5G62ygQm0nCE/edit?gid=0#gid=0
+Q_GRP_1,Amdahls Law,Sum24T1Q1,Dual,T1Q1,5,1.403,18.83,12,20,Inperson,Original,https://docs.google.com/spreadsheets/d/1NKtzTzaWEqO_Ph9AG_FtqapTCIXnKqnpbFFXrR5qi5Q/edit?gid=0#gid=0
+Q_GRP_1,Amdahls Law,S21T1Q2 (mod.),Single,T1Q2,6,3.087,18.46,37,20,Online,Original,https://docs.google.com/spreadsheets/d/1st40giUd2xttWfm5xGmJw2LkNyyknwmu5BFyxjOS2XA/edit?gid=307674835#gid=307674835
+Q_GRP_1,Amdahls Law,S25T1Q1,Dual,T1Q1,7,5.287,17.51,41,20,In person,Original,https://docs.google.com/spreadsheets/d/1GQ8L_02UPrib2Qd_CunTF9_1X5GoLJX14sw-BBREZwI/edit?gid=0#gid=0
+Q_GRP_2,Array-based queueing locks,F17T2Q4,Single,T2Q4,1,4.909,14.64,129,20,In person,Original,https://docs.google.com/spreadsheets/d/1OlChdqyBH58eIlDcHG1MivKa37H6lwx5/edit?gid=1308589287#gid=1308589287
+Q_GRP_2,Array-based queueing locks,S21T2Q7,Single,T2Q7,1,6.95,14.2647,36,20,In person,Original,https://docs.google.com/spreadsheets/d/1DqitY0TUhKXhDL0VdeCIEoacnzByHP5E8Grx8GZnJ3A/edit?gid=396376385#gid=396376385
+Q_GRP_2,Array-based queueing locks,Sum24T2Q3,Dual,T2Q3,1,1.694,18.45,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_3,Bus-based coherence protocols,Sum24XQ1,Dual,XQ1,3,3.144,17.09,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1Jvm-Is6muLdSeqwEpj_UBVn7J4d4z66XNbl9o7gIk80/edit?gid=0#gid=0
+Q_GRP_4,Causal consistency,Sum24T2Q5,Dual,T2Q5,2,1.154,15,4,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_5,"Comparing protocols: MSI, Dragon, Firefly",S23T2Q4,Single,T2Q4,1,4.575,14.258,31,20,Online,Original,https://docs.google.com/spreadsheets/d/1Lde-zH701F8DYMvMEQ4L1fYLpOPi1NWW/edit?gid=1894075543#gid=1894075543
+Q_GRP_5,"Comparing protocols: MSI, Dragon, Firefly",S24T2Q3,Dual,T2Q3,1,3.965,15.22,45,20,In person,Original,https://docs.google.com/spreadsheets/d/1BR_2D2Uh9ae7gGFBxHJilJ-AWVyjqZDrQYNXWebv5qk/edit?gid=0#gid=0
+Q_GRP_5,"Comparing protocols: MSI, Dragon, Firefly",F17T2Q2,Single,T2Q2,2,3.941,14.1317,129,20,In person,Mod,https://docs.google.com/spreadsheets/d/1OlChdqyBH58eIlDcHG1MivKa37H6lwx5/edit?gid=1308589287#gid=1308589287
+Q_GRP_5,"Comparing protocols: MSI, Dragon, Firefly",Sum22T2Q2,Single,T2Q2,3,6.54,12,6,20,In person,Original,https://docs.google.com/spreadsheets/d/1_zgAOvfq5I8E2kEdTcbIEt3wmJbfZMG5/edit?gid=1700656629#gid=1700656629
+Q_GRP_6,CUDA programming and synchronization,S23XQ6,Dual,XQ6,1,7.698,12.65625,32,20,In person,Original,https://docs.google.com/spreadsheets/d/1pcZJF7lxxNUaHpVp92s7lh21X3vNo4NZU-WUvrFCO6Y/edit?gid=1655145117#gid=1655145117
+Q_GRP_6,CUDA programming and synchronization,Sum22XQ6,Single,XQ6,1,1.788,15.8,5,20,In person,Original,https://docs.google.com/spreadsheets/d/1oIheJiezfgN8wkyxcHKsJkwtbgoY8P_s/edit?gid=1381616953#gid=1381616953
+Q_GRP_7,CUDA programming,S21T1Q3,Single,T1Q3,1,5.668,8.61,37,20,Online,Original,https://docs.google.com/spreadsheets/d/1st40giUd2xttWfm5xGmJw2LkNyyknwmu5BFyxjOS2XA/edit?gid=307674835#gid=307674835
+Q_GRP_7,CUDA programming,F16T1Q2,Single,T1Q2,1,4.877,15.6,107,20,In person,Original,https://docs.google.com/spreadsheets/d/1QVuzksVqtYtGGYDaNqWQAaZ8NMqinmIFz8ZWnWP_PP8/edit?gid=0#gid=0
+Q_GRP_7,Data-parallel programming,S12T1Q5,Single,T1Q5,1,4.675,9.567,37,20,Online,Original,https://docs.google.com/spreadsheets/d/1gmj12tUw3RV7qsvZYnXTe0iKaZN6lT80/edit?gid=1518045441#gid=1518045441
+Q_GRP_7,Data-parallel programming,F16T1Q5,Single,T1Q5,1,5.374,9.27,85,20,In person,Original,https://docs.google.com/spreadsheets/d/1QVuzksVqtYtGGYDaNqWQAaZ8NMqinmIFz8ZWnWP_PP8/edit?gid=0#gid=0
+Q_GRP_7,Data-parallel programming,Sum23T1Q5,Single,T1Q5,4,7.092,14.4,5,20,In person,Original,https://docs.google.com/spreadsheets/d/1qOQNipGG9qUes37NrBlhRJDzuOCApSz5G62ygQm0nCE/edit?gid=0#gid=0
+Q_GRP_7,Data-parallel programming,S20T1Q6,Single,T1Q6,5,7.692,13.029,34,20,In person,Original,https://docs.google.com/spreadsheets/d/1gpJMUc_Lb4Q6G7jdf5ugJo0TS-psYlAe/edit?gid=339970214#gid=339970214
+Q_GRP_7,Data-parallel programming,S24T1Q5,Single,T1Q5,5,6.279,11.37,38,20,In person,Original,https://docs.google.com/spreadsheets/d/1rCCsV0ADOJZ1gF1NWnxhbcvYHuUXwZK9OhFw6zk7_r4/edit?gid=0#gid=0
+Q_GRP_7,Data-parallel programming,S25T1Q2,Dual,T1Q2,6,5.859,9.34,39,20,In person,Original,https://docs.google.com/spreadsheets/d/1GQ8L_02UPrib2Qd_CunTF9_1X5GoLJX14sw-BBREZwI/edit?gid=0#gid=0
+Q_GRP_8,Dependences and parallelism,S21T1Q4,Single,T1Q4,1,3.559,9.62,37,20,Online,Mod,https://docs.google.com/spreadsheets/d/1st40giUd2xttWfm5xGmJw2LkNyyknwmu5BFyxjOS2XA/edit?gid=307674835#gid=307674835
+Q_GRP_8,Dependences and parallelism,S25T1Q5,Dual,T1Q5,1,4.281,9.85,41,20,In person,Original,https://docs.google.com/spreadsheets/d/1GQ8L_02UPrib2Qd_CunTF9_1X5GoLJX14sw-BBREZwI/edit?gid=0#gid=0
+Q_GRP_9,"Speedup and efficiency of DOACROSS, etc.",F17T1Q3,Single,T1Q3,1,1.516,18.8,143,20,In person,Original,https://docs.google.com/spreadsheets/d/1zAlu7gK8lFWwcT6hlt_pjOiIXfnonjoC/edit?gid=1380861835#gid=1380861835
+Q_GRP_9,Different kinds of parallelization,F16T1Q3,Single,T1Q3,2,3.557,16.16,119,20,In person,Original,https://docs.google.com/spreadsheets/d/1QVuzksVqtYtGGYDaNqWQAaZ8NMqinmIFz8ZWnWP_PP8/edit?gid=0#gid=0
+Q_GRP_9,Different kinds of parallelization,S21T1Q5,Single,T1Q5,2,4.663,3.689,37,20,In person,Original,https://docs.google.com/spreadsheets/d/1st40giUd2xttWfm5xGmJw2LkNyyknwmu5BFyxjOS2XA/edit?gid=307674835#gid=307674835
+Q_GRP_10,Dragon Coherance Protocol,S14XQ1,Single,XQ1,1,2.977,14.64,33,20,In person,Original,https://docs.google.com/spreadsheets/d/1rgP-BaEIAsCtI1zIUYu4xF2W7ur0CfOa/edit?gid=1071902926#gid=1071902926
+Q_GRP_10,Dragon Coherance Protocol,Sum22XQ1,Single,XQ1,2,0.516,19.66,6,20,In person,Original,https://docs.google.com/spreadsheets/d/1oIheJiezfgN8wkyxcHKsJkwtbgoY8P_s/edit?gid=1381616953#gid=1381616953
+Q_GRP_10,Dragon Coherance Protocol,S23XQ4,Dual,XQ4,3,2.214,19,32,20,In person,Mod,https://docs.google.com/spreadsheets/d/1pcZJF7lxxNUaHpVp92s7lh21X3vNo4NZU-WUvrFCO6Y/edit?gid=1655145117#gid=1655145117
+Q_GRP_10,Dragon Coherance Protocol,S24T2Q2,Dual,T2Q2,3,4.724,15.76,45,20,In person,Original,https://docs.google.com/spreadsheets/d/1BR_2D2Uh9ae7gGFBxHJilJ-AWVyjqZDrQYNXWebv5qk/edit?gid=0#gid=0
+Q_GRP_11,DSM coherence,Sum23XQ2,Single,XQ2,1,1.87,18.89,9,20,In person,Mod,https://docs.google.com/spreadsheets/d/1Gzh11AcvVYoY70FO8AqDwrdlNS6ia5XoO6SpQT9D4uw/edit?gid=0#gid=0
+Q_GRP_11,DSM coherence,S24XQ3,Dual,XQ3,1,2.811,17.05,43,20,In person,Original,https://docs.google.com/spreadsheets/d/14-eOC32Ht-jLHkabMxDjM0yHb6XSP5rnMYrD1womxc0/edit?gid=0#gid=0
+Q_GRP_11,DSM coherence,S22XQ2,Single,XQ2,2,2.383,18.076,52,20,In person,Mod,https://docs.google.com/spreadsheets/d/1bfO7jVVZFfA-vdJPj67VJkqmAWKsADAx/edit?gid=1789897117#gid=1789897117
+Q_GRP_12,Four types of misses,Sum23T2Q1,Single,T2Q1,1,3.917,10.3,10,20,In person,Mod,https://docs.google.com/spreadsheets/d/1IJ3FPPY7q1FhEkeiXaDfG6iEBEzbYWC2hI5ojWdyyAE/edit?gid=0#gid=0
+Q_GRP_12,Four types of misses,S24T2Q1,Dual,T2Q1,1,5.291,13.74,43,20,In person,Original,https://docs.google.com/spreadsheets/d/1BR_2D2Uh9ae7gGFBxHJilJ-AWVyjqZDrQYNXWebv5qk/edit?gid=0#gid=0
+Q_GRP_13,GPU programming,F17T1Q2,Single,T1Q2,1,4.774,15.5,133,20,In person,Original,https://docs.google.com/spreadsheets/d/1zAlu7gK8lFWwcT6hlt_pjOiIXfnonjoC/edit?gid=1380861835#gid=1380861835
+Q_GRP_13,GPU programming,Sum21T1Q2,Single,T1Q2,2,3,17,3,20,In person,Original,https://docs.google.com/spreadsheets/d/1XWxt7MqzXouNGevRCtso_vABYS_rU4PN/edit?gid=1965953384#gid=1965953384
+Q_GRP_13,GPU programming,Sum24T1Q4,Dual,T1Q4,3,6.046,14.82,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1NKtzTzaWEqO_Ph9AG_FtqapTCIXnKqnpbFFXrR5qi5Q/edit?gid=0#gid=0
+Q_GRP_14,Inclusive and exclusive caches,S15XQ2,Single,XQ2,1,2.45,16.81,18,20,In person,Original,https://docs.google.com/spreadsheets/d/1Ie7RZaocvVDSndJr8tqzLRDikZ3rDZfw/edit?gid=1690438412#gid=1690438412
+Q_GRP_14,Inclusive and exclusive caches,S20XQ1,Single,XQ1,2,1.8404,14.8,33,20,Online,Original,https://docs.google.com/spreadsheets/d/17jdjUqiLxvx7uFZEMc0ptslmA8imDmRZ/edit?gid=1715372210#gid=1715372210
+Q_GRP_14,Inclusive and exclusive caches,Sum24XQ2,Dual,XQ2,2,4.414,15.09,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1Jvm-Is6muLdSeqwEpj_UBVn7J4d4z66XNbl9o7gIk80/edit?gid=0#gid=0
+Q_GRP_14,Inclusive and exclusive caches,S24XQ2,Dual,XQ2,4,2.978,17.81,43,20,In person,Original,https://docs.google.com/spreadsheets/d/14-eOC32Ht-jLHkabMxDjM0yHb6XSP5rnMYrD1womxc0/edit?gid=0#gid=0
+Q_GRP_15,Linked data structures,F16T1Q6,Single,T1Q6,1,3.471,17.04,110,20,In person,Original,https://docs.google.com/spreadsheets/d/1QVuzksVqtYtGGYDaNqWQAaZ8NMqinmIFz8ZWnWP_PP8/edit?gid=0#gid=0
+Q_GRP_15,Linked data structures,"S25T1Q6
+",Dual,T1Q6,2,2.907,15.58,40,20,In person,Original,https://docs.google.com/spreadsheets/d/1GQ8L_02UPrib2Qd_CunTF9_1X5GoLJX14sw-BBREZwI/edit?gid=0#gid=0
+Q_GRP_15,Linked data structures,S20T1Q5,Single,T1Q5,3,2.802,16.52,36,20,In person,Original,https://docs.google.com/spreadsheets/d/1gpJMUc_Lb4Q6G7jdf5ugJo0TS-psYlAe/edit?gid=339970214#gid=339970214
+Q_GRP_15,Linked data structures,Sum24T1Q6,Dual,T1Q6,4,3.915,13.67,12,20,In person,Original,https://docs.google.com/spreadsheets/d/1NKtzTzaWEqO_Ph9AG_FtqapTCIXnKqnpbFFXrR5qi5Q/edit?gid=0#gid=0
+Q_GRP_16,MESI & Dragon protocols,S20T2Q2,Single,T2Q2,1,1.392,19.33,33,20,Online,Original,https://docs.google.com/spreadsheets/d/1-GzpCIWlfEN7NgqphfdwZcOlDeQS-I1v/edit?gid=420970826#gid=420970826
+Q_GRP_16,MESI & Dragon protocols,Sum24T2Q2,Dual,T2Q2,2,2.284,18.73,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_17,Ocean simulation,S21T1Q6,Single,T1Q6,1,6.93,6.59,37,20,Online,Original,https://docs.google.com/spreadsheets/d/1st40giUd2xttWfm5xGmJw2LkNyyknwmu5BFyxjOS2XA/edit?gid=307674835#gid=307674835
+Q_GRP_17,Ocean simulation,Sum24T1Q5,Dual,T1Q5,1,6.719,10.6,10,20,In person,Original,https://docs.google.com/spreadsheets/d/1NKtzTzaWEqO_Ph9AG_FtqapTCIXnKqnpbFFXrR5qi5Q/edit?gid=0#gid=0
+Q_GRP_17,Ocean simulation,S21T2Q6,Single,T2Q6,2,2.963,17.57,36,20,Online,Original,https://docs.google.com/spreadsheets/d/1DqitY0TUhKXhDL0VdeCIEoacnzByHP5E8Grx8GZnJ3A/edit?gid=396376385#gid=396376385
+Q_GRP_18,Programmer’s intuition,Sum23XQ3,Single,XQ3,1,1.922,17.22,9,20,In person,Original,https://docs.google.com/spreadsheets/d/1Gzh11AcvVYoY70FO8AqDwrdlNS6ia5XoO6SpQT9D4uw/edit?gid=0#gid=0
+Q_GRP_18,Programmer’s intuition,S24XQ4,Dual,XQ4,2,2.124,16.18,45,20,In person,Original,https://docs.google.com/spreadsheets/d/14-eOC32Ht-jLHkabMxDjM0yHb6XSP5rnMYrD1womxc0/edit?gid=0#gid=0
+Q_GRP_19,Consistency models,S12T2Q5,Single,T2Q5,,4.227,17.42,44,20,In person,Original,https://docs.google.com/spreadsheets/d/1UAi49I_o8YRS0-uz5i5wiIZbVQKJ9O65/edit?gid=917615924#gid=917615924
+Q_GRP_19,Consistency models,F17T2Q6,Single,T2Q6,,5.709,15.24,129,20,In person,Original,https://docs.google.com/spreadsheets/d/1OlChdqyBH58eIlDcHG1MivKa37H6lwx5/edit?gid=1308589287#gid=1308589287
+Q_GRP_19,Consistency models,Sum24T2Q6,Dual,T2Q6,,3.58,15.73,13,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_20,Relaxed consistency models,S25T2Q5,Dual,T2Q5,,3.23,14.62,42,20,In person,Original,https://docs.google.com/spreadsheets/d/1kZ3tg71ZCzWvEqmAzwowsh_82Yfe82hvn0J1PzQhZPI/edit?gid=0#gid=0
+Q_GRP_20,Relaxed consistency models,S24T2Q5,Dual,T2Q5,,3.394,16.98,45,20,In person,Original,https://docs.google.com/spreadsheets/d/1BR_2D2Uh9ae7gGFBxHJilJ-AWVyjqZDrQYNXWebv5qk/edit?gid=0#gid=0
+Q_GRP_21,Relaxed consistency models,Sum22XQ5,Single,XQ5,,3.265,15.33,6,20,In person,Original,https://docs.google.com/spreadsheets/d/1oIheJiezfgN8wkyxcHKsJkwtbgoY8P_s/edit?gid=1381616953#gid=1381616953
+Q_GRP_21,Relaxed consistency models,S23XQ5,Dual,XQ5,,4.689,13.06,38,20,In person,Original,https://docs.google.com/spreadsheets/d/1pcZJF7lxxNUaHpVp92s7lh21X3vNo4NZU-WUvrFCO6Y/edit?gid=1655145117#gid=1655145117
+Q_GRP_22,Relaxed consistency models,Sum23XQ4,Single,XQ4,,5.099,14,9,20,In person,Modified,https://docs.google.com/spreadsheets/d/1Gzh11AcvVYoY70FO8AqDwrdlNS6ia5XoO6SpQT9D4uw/edit?gid=0#gid=0
+Q_GRP_22,Relaxed consistency models,S24XQ5,Dual,XQ5,,4.992,14.64,45,20,In person,Original,https://docs.google.com/spreadsheets/d/14-eOC32Ht-jLHkabMxDjM0yHb6XSP5rnMYrD1womxc0/edit?gid=0#gid=0
+Q_GRP_23,Remote memory access in Origin 2000,S20XQ3,Single,XQ3,,4.544,8.6,33,20,Online,Original,https://docs.google.com/spreadsheets/d/17jdjUqiLxvx7uFZEMc0ptslmA8imDmRZ/edit?gid=1715372210#gid=1715372210
+Q_GRP_23,Remote memory access in Origin 2000,Sum24XQ4,Dual,XQ4,,2.633,18.6,13,20,In person,Original,https://docs.google.com/spreadsheets/d/1Jvm-Is6muLdSeqwEpj_UBVn7J4d4z66XNbl9o7gIk80/edit?gid=0#gid=0
+Q_GRP_24,Scope of variables,S14T1Q4,Single,T1Q4,,2.855,16.97,33,20,In person,Original,https://docs.google.com/spreadsheets/d/1rgP-BaEIAsCtI1zIUYu4xF2W7ur0CfOa/edit?gid=1071902926#gid=1071902926
+Q_GRP_24,Scope of variables,S20T1Q3,Single,T1Q3,,3.152,15.05,36,20,In person,Original,https://docs.google.com/spreadsheets/d/1gpJMUc_Lb4Q6G7jdf5ugJo0TS-psYlAe/edit?gid=339970214#gid=339970214
+Q_GRP_24,Scope of variables,S25T1Q3,Dual,T1Q3,,3.503,15.68,43,20,In person,Original,https://docs.google.com/spreadsheets/d/1GQ8L_02UPrib2Qd_CunTF9_1X5GoLJX14sw-BBREZwI/edit?gid=0#gid=0
+Q_GRP_25,Sequential consistency,S20T2Q5,Single,T2Q5,,2.626,18.06,33,20,Online,Original,https://docs.google.com/spreadsheets/d/1-GzpCIWlfEN7NgqphfdwZcOlDeQS-I1v/edit?gid=420970826#gid=420970826
+Q_GRP_25,Sequential consistency possible results,Sum24T2Q4,Dual,T2Q4,,4.158,14.91,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_26,Sequential consistency assumptions ,Sum23T2Q6,Single,T2Q6,,4.453,15.5,10,20,In person,Mod,https://docs.google.com/spreadsheets/d/1IJ3FPPY7q1FhEkeiXaDfG6iEBEzbYWC2hI5ojWdyyAE/edit?gid=0#gid=0
+Q_GRP_26,Sequential consistency assumptions ,S25T2Q6,Dual,T2Q6,,4.404,16.56,41,20,In person,Original,https://docs.google.com/spreadsheets/d/1kZ3tg71ZCzWvEqmAzwowsh_82Yfe82hvn0J1PzQhZPI/edit?gid=0#gid=0
+Q_GRP_26,Sequential consistency assumptions ,S24T2Q6,Dual,T2Q6,,3.58,15.73,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_27,Shuffle-exchange network,S12XQ4,Single,XQ4,,5.238,13.45,38,20,In person,Original,https://docs.google.com/spreadsheets/d/1G_KNRyL2k2WSSC0nhO4b0rCBa5oC4h13/edit?gid=1679551628#gid=1679551628
+Q_GRP_27,Shuffle-exchange network,Sum24XQ6,Dual,XQ6,,2.98,15.98,45,20,In person,Original,https://docs.google.com/spreadsheets/d/14-eOC32Ht-jLHkabMxDjM0yHb6XSP5rnMYrD1womxc0/edit?gid=0#gid=0
+Q_GRP_28,"Speedup and efficiency of DOACROSS, etc.",F17T1Q3,Single,T1Q3,,1.516,18.8,144,20,In person,Mod,https://docs.google.com/spreadsheets/d/1zAlu7gK8lFWwcT6hlt_pjOiIXfnonjoC/edit?gid=1380861835#gid=1380861835
+Q_GRP_28,"Speedup and efficiency of DOACROSS, etc.",Sum22T1Q3,Single,T1Q3,,2.943,16.66,6,20,In person,Original,https://docs.google.com/spreadsheets/d/1WQNywU2GMtObT8blnrkRgFvGhwGRbZnZ/edit?gid=568869932#gid=568869932
+Q_GRP_28,"Speedup and efficiency of DOACROSS, etc.",Sum23T1Q3,Single,T1Q3,,5.755,12.7,10,20,In person,Original,https://docs.google.com/spreadsheets/d/1qOQNipGG9qUes37NrBlhRJDzuOCApSz5G62ygQm0nCE/edit?gid=0#gid=0
+Q_GRP_28,"Speedup and efficiency of DOACROSS, etc.",Sum24T1Q2,Dual,T1Q2,,7.874,13,12,20,In person,Original,https://docs.google.com/spreadsheets/d/1NKtzTzaWEqO_Ph9AG_FtqapTCIXnKqnpbFFXrR5qi5Q/edit?gid=0#gid=0
+Q_GRP_29,SSCI protocol ,S20XQ2,Single,XQ2,,1.684,14.6,33,20,Online,Mod,https://docs.google.com/spreadsheets/d/17jdjUqiLxvx7uFZEMc0ptslmA8imDmRZ/edit?gid=1715372210#gid=1715372210
+Q_GRP_29,SSCI protocol ,Sum24XQ3,Dual,XQ3,,3.009,16.36,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1Jvm-Is6muLdSeqwEpj_UBVn7J4d4z66XNbl9o7gIk80/edit?gid=0#gid=0
+Q_GRP_30,Test & Set Lock and TTSL,S20T2Q6,Single,T2Q6,,4.107,18.06,33,20,Online,Original,https://docs.google.com/spreadsheets/d/1-GzpCIWlfEN7NgqphfdwZcOlDeQS-I1v/edit?gid=420970826#gid=420970826
+Q_GRP_30,TSL and TTSL lock implementations ,S14T1Q5,Single,T1Q5,,5.096,12.72,18,20,In person,Original,https://docs.google.com/spreadsheets/d/1rgP-BaEIAsCtI1zIUYu4xF2W7ur0CfOa/edit?gid=1071902926#gid=1071902926
+Q_GRP_30,TSL and TTSL lock implementations ,S24T2Q4,Dual,T2Q4,,5.174,16.78,46,20,In person,Original,https://docs.google.com/spreadsheets/d/1BR_2D2Uh9ae7gGFBxHJilJ-AWVyjqZDrQYNXWebv5qk/edit?gid=0#gid=0
+Q_GRP_31,Update vs. invalidation protocols ,S12T2Q3,Single,T2Q3,,4.223,13.94,38,20,In person,Original,https://docs.google.com/spreadsheets/d/1UAi49I_o8YRS0-uz5i5wiIZbVQKJ9O65/edit?gid=917615924#gid=917615924
+Q_GRP_31,Update vs. invalidation protocols ,S12T2Q4,Single,T2Q4,,3.965,16.94,38,20,In person,Original,https://docs.google.com/spreadsheets/d/1UAi49I_o8YRS0-uz5i5wiIZbVQKJ9O65/edit?gid=917615924#gid=917615924
+Q_GRP_31,Update vs. invalidation protocols ,S20T2Q3,Single,T2Q3,,4.194,15.62,32,20,Online,Original,https://docs.google.com/spreadsheets/d/1-GzpCIWlfEN7NgqphfdwZcOlDeQS-I1v/edit?gid=420970826#gid=420970826
+Q_GRP_31,Update vs. invalidation protocols ,S25T2Q1,Dual,T2Q1,,5.125,15.14,42,20,In person,Original,https://docs.google.com/spreadsheets/d/1kZ3tg71ZCzWvEqmAzwowsh_82Yfe82hvn0J1PzQhZPI/edit?gid=0#gid=0
+Q_GRP_31,Update vs. invalidation protocols ,Sum24T2Q1,Dual,T2Q1,,3.487,14.82,11,20,In person,Original,https://docs.google.com/spreadsheets/d/1m-E5WHKxGa9eAixHvLT_tcEgS-3neUVUh2VpqYAqY-M/edit?gid=0#gid=0
+Q_GRP_32,Variable scope and privatization,F17T1Q4,Single,T1Q4,,3.747,12.7,144,20,In person,Original,https://docs.google.com/spreadsheets/d/1zAlu7gK8lFWwcT6hlt_pjOiIXfnonjoC/edit?gid=1380861835#gid=1380861835
+Q_GRP_32,Variable scope and privatization,F17T1Q5,Single,T1Q5,,5.624,9.5,144,20,In person,Original,https://docs.google.com/spreadsheets/d/1zAlu7gK8lFWwcT6hlt_pjOiIXfnonjoC/edit?gid=1380861835#gid=1380861835
+Q_GRP_32,variable scope and privatization,S22T1Q4,Single,T1Q4,,3.374,13.29,52,20,In person,Original,https://docs.google.com/spreadsheets/d/1REBIJre3Zh8PahZw99gPU9shgQ1ch9yZ/edit?gid=461300637#gid=461300637
+Q_GRP_32,variable scope and privatization,Sum24T1Q3,Dual,T1Q3,,3.785,14.83,12,20,In person,Original,https://docs.google.com/spreadsheets/d/1NKtzTzaWEqO_Ph9AG_FtqapTCIXnKqnpbFFXrR5qi5Q/edit?gid=0#gid=0
+Q_GRP_33,Variable scope and privatization ,Sum23XQ1,Single,XQ1,,1.87,15,9,20,In person,Original,https://docs.google.com/spreadsheets/d/1Gzh11AcvVYoY70FO8AqDwrdlNS6ia5XoO6SpQT9D4uw/edit?gid=0#gid=0
+Q_GRP_33,Variable scope and privatization,S24XQ1,Dual,XQ1,,1.479,15.36,44,20,In person,Original,https://docs.google.com/spreadsheets/d/14-eOC32Ht-jLHkabMxDjM0yHb6XSP5rnMYrD1womxc0/edit?gid=0#gid=0
+Q_GRP_33,Variable scope and privatization,Sum23XQ1,Single,XQ1,,2.698,14.2,35,20,In person,Original,https://docs.google.com/spreadsheets/d/1zUOsQJC_5UkCpcP5VBNt2qHt-yUcAGmHCjPfszveRQo/edit?gid=1597880139#gid=1597880139
